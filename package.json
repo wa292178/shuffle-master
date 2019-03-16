@@ -1,0 +1,26 @@
+{
+  "name": "shuffle-master",
+  "version": "1.0.0",
+  "description": "node.js poker random shuffle",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec test/*.js"
+  },
+  "keywords": [
+    "poker",
+    "shuffle",
+    "texas holdem",
+    "omaha",
+    "牛牛",
+    "金花"
+  ],
+  "author": "CHANGCUI WAN",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
