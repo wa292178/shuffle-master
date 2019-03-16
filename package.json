@@ -1,6 +1,6 @@
 {
   "name": "shuffle-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node.js poker random shuffle",
   "main": "./lib/index.js",
   "scripts": {
